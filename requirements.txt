@@ -1,0 +1,7 @@
+flask
+flask-session
+opencv-python
+numpy
+pillow
+reportlab
+colorama
