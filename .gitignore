@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+uploads/
+results/
+.idea/
+flask_session/
